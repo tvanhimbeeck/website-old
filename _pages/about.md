@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://iqa.telecom-paris.fr/'>IQA</a>, Télécom Paris. 19, place Marguerite Perey, Palaiseau, France
 
 profile:
   align: right
