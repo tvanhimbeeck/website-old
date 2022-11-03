@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iqa.telecom-paris.fr/'>IQA</a>, Télécom Paris. 19, place Marguerite Perey, Palaiseau, France
+subtitle: (subtitle)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://iqa.telecom-paris.fr/'>IQA group</a>, Télécom Paris.</p>
+    <p> 19, place Marguerite Perey, Palaiseau, France</p>
+    <p> email <p>
 
 news: false  # idncludes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,4 +24,4 @@ I'm interested Quantum Cryptography and building new mathematical tools for char
 
 I'm interested in both numerical and analytical solution with the intuition that both problems are closely linked.
 
-keywords: Quantum optics, 
+keywords: Quantum optics,
