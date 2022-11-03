@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: (subtitle)
+subtitle: <a href='https://iqa.telecom-paris.fr/'>IQA group</a>, Télécom Paris. 19, place Marguerite Perey, Palaiseau, France
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='https://iqa.telecom-paris.fr/'>IQA group</a>, Télécom Paris.</p>
-    <p> 19, place Marguerite Perey, Palaiseau, France</p>
     <p> email <p>
 
 news: false  # idncludes a list of news items
