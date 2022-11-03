@@ -7,7 +7,7 @@ subtitle: <a href='https://iqa.telecom-paris.fr/'>IQA group</a>, Télécom Paris
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p> email <p>
 
@@ -18,8 +18,9 @@ social: false  # includes social icons at the bottom of the page
 
 Physicist working in the field of Quantum Information theory.
 
-I'm interested Quantum Cryptography and building new mathematical tools for characterising the security of practical protocols. My main research theme is build the link with the field of Convex Optimisation.
+[Personal Bio in construction]
+# I'm interested Quantum Cryptography and building new mathematical tools for characterising the security of practical protocols. My main research theme is build the link with the field of Convex Optimisation.
 
-I'm interested in both numerical and analytical solutions (with the intuition that both problems are closely linked); in different Adversarial models (ie. (semi-)-Device-(In)Dependent protocols)
+# I'm interested in both numerical and analytical solutions (with the intuition that both problems are closely linked); in different Adversarial models (ie. (semi-)-Device-(In)Dependent protocols)
 
-keywords: Quantum optics, Quantum Key Distribution, Device-Independent Cryptography
+# keywords: Quantum optics, Quantum Key Distribution, Device-Independent Cryptography
