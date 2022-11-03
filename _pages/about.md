@@ -22,6 +22,6 @@ Physicist working in the field of Quantum Information theory.
 
 I'm interested Quantum Cryptography and building new mathematical tools for characterising the security of practical protocols. My main research theme is build the link with the field of Convex Optimisation.
 
-I'm interested in both numerical and analytical solution with the intuition that both problems are closely linked.
+I'm interested in both numerical and analytical solutions (with the intuition that both problems are closely linked); in different Adversarial models (ie. (semi-)-Device-(In)Dependent protocols)
 
-keywords: Quantum optics,
+keywords: Quantum optics, Quantum Key Distribution, Device-Independent Cryptography
