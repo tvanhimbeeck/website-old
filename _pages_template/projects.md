@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research projects
+title: Research projects test
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 2
 display_categories:
