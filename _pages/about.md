@@ -10,14 +10,15 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p> Contact:</p>
-    <p> [thomas.vanhimbeeck@telecom-paris.fr] </p>
+    <p> thomas.vanhimbeeck@telecom-paris.fr </p>
+    <p> </p>
     <p> Institution:</p>
-    <p> <a href='https://iqa.telecom-paris.fr/'>QURIOSITY group</a> </p>
-    <p> INFRES department</p>
-    <p>, Télécom Paris </p>
+    <p> <a href='https://iqa.telecom-paris.fr/'>QURIOSITY group,</a> </p>
+    <p> INFRES department,</p>
+    <p>Télécom Paris </p>
 
 
-news: false  # idncludes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
