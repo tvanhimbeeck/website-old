@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Research projects test
+title: Research projects
 permalink: /projects/
 description:
 nav: true
 nav_order: 2
 display_categories:
 horizontal: false
+collection: template
 ---
 
 <!-- pages/projects.md -->
