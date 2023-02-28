@@ -7,12 +7,13 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>Contact:<p>
-    <p> <a href='https://iqa.telecom-paris.fr/'>QURIOSITY group</a><p>
-    <p> INFRES, Télécom Paris <p>
-    <p> firstname.lastname@telecom-paris.fr <p>
+    <p>Contact:</p>
+    <p> firstname.lastname@telecom-paris.fr </p>
+    <p> <a href='https://iqa.telecom-paris.fr/'>QURIOSITY group</a></p>
+    <p> INFRES, Télécom Paris </p>
+
 
 news: false  # idncludes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

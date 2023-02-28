@@ -6,7 +6,6 @@ description: publications by categories in reversed chronological order. generat
 years: [2019,2022]
 nav: false
 nav_order: 1
-collection: template
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
