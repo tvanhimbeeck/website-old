@@ -17,7 +17,9 @@ profile:
 news: false  # idncludes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+
 ---
+
 Welcome to my personal webpage !
 
 I'm a researcher working in the field of Quantum Information Theory. I have a strong expertise in different aspects of Quantum Cryptography: from the design of practical implementations using Quantum Optics, to advanced mathematical methods for proving finite-size security. He is interested in both numerical and analytical methods, and has experience with different adversarial models, from Device-Dependent to (semi-)Device-Independent security.
