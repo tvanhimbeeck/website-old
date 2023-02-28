@@ -171,6 +171,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - ['_pages_template']
 keep_files:
   - CNAME
   - .nojekyll
