@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Quantum Key Distribution
+title:
 description:
-img: 
+img:
 importance: 1
 category:
 ---
