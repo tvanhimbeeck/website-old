@@ -32,7 +32,7 @@ I have a strong expertise in many aspects of Quantum Cryptography: from the desi
 
 I  received my PhD from the University of Brussels in 2019, under the supervision of Stefano Pironio. I then moved to Canada, where I was a postdoctoral researcher in the groups of Norbert Lütkenhaus (University of Waterloo) and Hoi-Kwong Lo (University of Toronto), before joining the group at Telecom Paris.
 
-Website in construction: stay tuned for updates !
+*Website in construction: stay tuned for updates !*
 
 <!-- I'm interested Quantum Cryptography and building new mathematical tools for characterising the security of practical protocols. My main research theme is build the link with the field of Convex Optimisation. -->
 
