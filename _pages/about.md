@@ -28,7 +28,7 @@ I'm a postdoctoral researcher, working at Télécom Paris in the field of Quantu
 
 You can find my papers on <a href='https://scholar.google.com/citations?user=R3jaUGgAAAAJ&hl=fr&oi=ao'> Google scholar </a>.
 
-I have a strong expertise in many aspects of Quantum Cryptography: from the design of practical implementations using Quantum Optics, to advanced mathematical methods for proving finite-size security. I am interested in both numerical and analytical methods, and have experience with a range of different adversarial models, from traditional approaches with Trusted Devices to Fully-Device-Independent security.
+My expertise covers many aspects of Quantum Cryptography: from the design of practical implementations using Quantum Optics, to advanced mathematical methods for proving finite-size security. I am interested in both numerical and analytical methods, and have experience with a range of different adversarial models, from traditional approaches with Trusted Devices to Fully-Device-Independent security.
 
 I  received my PhD from the University of Brussels in 2019, under the supervision of Stefano Pironio. I then moved to Canada, where I was a postdoctoral researcher in the groups of Norbert Lütkenhaus (University of Waterloo) and Hoi-Kwong Lo (University of Toronto), before joining my current group at Telecom Paris.
 
