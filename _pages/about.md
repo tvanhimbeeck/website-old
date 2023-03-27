@@ -12,7 +12,6 @@ profile:
     <p> EMAIL: thomas.vanhimbeeck@telecom-paris.fr</p>
     <p> INSTITUTION:</p>
     <p> <a href='https://iqa.telecom-paris.fr/'>QURIOSITY group,</a></p>
-    <p> INFRES department,</p>
     <p> Télécom Paris</p>
 
 
